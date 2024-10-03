@@ -1,1 +1,5 @@
 print ("Adicionando usuários e filmes!")
+print ("user1: Caua")
+print ("user2: Douglas")
+print ("film1:O Senhor dos Anéis")
+print("film2: O Exterminador Do Futuro")
